@@ -1,0 +1,12 @@
+include ':example5coroutines'
+include ':example4coroutines'
+include ':example3coroutines'
+include ':example2coroutines'
+include ':example5'
+include ':example4'
+include ':example3'
+include ':example2'
+include ':example1coroutines'
+include ':example1'
+include ':app'
+rootProject.name = "ExampleConcurrency"
